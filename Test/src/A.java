@@ -1,3 +1,3 @@
 public class A {
-	// Promjena 2 - bug_1
+	// Promjena 3 - bug_1
 }
