@@ -1,3 +1,3 @@
 public class A {
-	// Promjena za rebase conflict 5 - remote zadnji
+	// Promjena 1 - remote
 }
