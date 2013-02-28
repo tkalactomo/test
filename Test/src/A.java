@@ -1,3 +1,3 @@
 public class A {
-	// Promjena za pull 2
+	// Promjena za pull 3
 }
