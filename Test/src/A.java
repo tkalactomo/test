@@ -1,3 +1,3 @@
 public class A {
-	// Promjena za pull 5 - zadnja
+	// Promjena za rebase 1
 }
