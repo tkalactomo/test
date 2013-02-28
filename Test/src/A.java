@@ -1,3 +1,3 @@
 public class A {
-	// Komentar 21
+	// Komentar 22
 }
