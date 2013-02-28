@@ -1,3 +1,3 @@
 public class A {
-	// Promjena 1 GitHub
+	// Promjena 2 GitHub
 }
