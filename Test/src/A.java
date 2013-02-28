@@ -1,3 +1,3 @@
 public class A {
-	// Promjena 5 GitHub
+	// Promjena za pull 1
 }
