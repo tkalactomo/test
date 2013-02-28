@@ -1,3 +1,3 @@
 public class A {
-	// Promjena za pull conflict 1 - remote
+	// Promjena za pull conflict 2 - remote
 }
